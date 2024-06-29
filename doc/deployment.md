@@ -46,3 +46,9 @@ Notes for OpenAI-API users:
 
 - Put your Deepgram-API key in `audio_deepgram.py` file.
 - Install the dependencies by `pip install deepgram-sdk`
+
+### Groq API
+
+- Put your Groq-API key in `audio_groq.py` file.
+- Install the dependencies by `pip install groq`
+- Set up your Groq API Key `export GROQ_API_KEY=<your-api-key-here>`

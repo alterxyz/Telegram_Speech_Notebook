@@ -39,5 +39,6 @@ Fix or refine the transcribed text with the Dify work flow.
 ## Future Work
 
 - [x] Add GPT refinement to the transcribed text.
+- [ ] Groq API
 
 GLHF!
